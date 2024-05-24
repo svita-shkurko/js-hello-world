@@ -4,10 +4,15 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log ("Hello, World!")
+console.log ('Hello, Baby')
+console.log (23)
+console.log (23+8)
+console.log ("message1","message2")
+console.log ("Quoth the Raven \"Nevermore\"")
+console.log (new Date())
 /*  
-Next, PLAY! 
+Next, PLAY.l! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
 
    1. Change the message that is printed.
